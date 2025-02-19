@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://majxi.csgad.com/IJi/sitemap.xml.gz
